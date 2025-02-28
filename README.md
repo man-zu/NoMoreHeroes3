@@ -6,6 +6,9 @@
 
 담당파트 : UI 총괄
 
+"No More Heroes 3" 프로젝트에서 제가 담당한 UI 부분의 소스 코드입니다.  
+저작권 문제를 고려하여 게임 리소스는 포함되지 않았습니다.
+
 ## 동영상
 (플레이영상) https://www.youtube.com/watch?v=7j95oUnhB3o  
 (개인파트 설명 영상) https://youtu.be/OoAqYDquscI 
