@@ -1,5 +1,5 @@
 # No More Heroes 3
-
+![Image](https://github.com/user-attachments/assets/fd91eef4-c977-4de0-84ba-5907a20099e1)
 개발기간 : 2024. 08. 26 ~ 2024. 11. 04 (약 2개월)
 
 개발인원 : 8인
